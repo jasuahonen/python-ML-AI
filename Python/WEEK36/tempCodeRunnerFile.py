@@ -1,0 +1,1 @@
+r_squared = r2_score(y, model.predict(X))
